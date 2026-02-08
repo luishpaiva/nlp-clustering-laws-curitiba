@@ -2,10 +2,10 @@
 
 Repositório contendo os experimentos e as análises desenvolvidas no trabalho de conclusão de curso, cujo objetivo é aplicar técnicas de **Processamento de Linguagem Natural (PLN)** e **Aprendizado Não Supervisionado** ao conjunto de leis municipais do município de Curitiba, visando identificar padrões estruturais e temáticos nos textos legais. O estudo explora desde o pré-processamento textual até a representação vetorial, redução de dimensionalidade e algoritmos de agrupamento, com foco na análise exploratória e interpretativa de documentos legislativos.
 
-**Instituição:** Universidade de São Paulo (USP) - São Carlos
-**Curso:** MBA em Ciências de Dados
-**Título do trabalho:** Agrupamento temático de leis de Curitiba por meio de Processamento de Linguagem Natural: Uma abordagem baseada em aprendizado não supervisionado
-**Disponível em:** (*aguardando a banca...*)
+**Instituição:** Universidade de São Paulo (USP) - São Carlos  
+**Curso:** MBA em Ciências de Dados  
+**Título do trabalho:** Agrupamento temático de leis de Curitiba por meio de Processamento de Linguagem Natural: Uma abordagem baseada em aprendizado não supervisionado  
+**Disponível em:** (*aguardando a banca...*)  
 
 ---
 
